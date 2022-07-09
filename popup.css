@@ -1,0 +1,19 @@
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    font-size: 20px;
+    min-width: 80px;
+    width: 240px;
+    box-shadow: rgba(100, 100, 100, 0.4) 0px 8px 32px 0px;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px red, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+        0px 0px 20px #b393d3;
+}
